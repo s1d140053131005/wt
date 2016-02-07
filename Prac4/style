@@ -1,0 +1,4 @@
+.floatimg
+{
+	float: left;
+}
